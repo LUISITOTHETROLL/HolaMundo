@@ -23,3 +23,10 @@ Esta es el link al repositorio remoto:
 https://github.com/LUISITOTHETROLL/HolaMundo
 
 Pero por alguna razón, se han borrado los 6 commits intermedios, seguramente por hacer un git bisect reset tarde.
+Adjunto los logs de esto commits a continuación:
+9c5daaebec4c514f71cc613eed6f4746257e50d5 (HEAD -> main, origin/main, refs/bisect/new) sexta versión estable
+1893c045323ee399424489be8d263030fc40d98f quinta versión estable
+2502d48735770f65881e7744bcf9e5652da81769 cuarta versión estable
+e5fe888c5b56179f5de2a67b6f1b1fbe61cd816c tercera versión estable
+e82553a838e302079a66b431acee1097a799aa72 segunda versión estable
+15f7212c47ccb315d183dd3841008b7b9dc0aa5f primera versión estable
