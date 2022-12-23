@@ -17,3 +17,9 @@ dracukeo@dracukeo-PC:~/Desktop/gitcosas/HolaMundo$ git config --global alias.bra
 Hook creado: 
 el hook creado es el de pre-commit en la carpeta hooks de .git y incluye funcionalidades como verificar 
 que los ficheros no acaban con espacios en blanco sobrantes.
+
+
+Esta es el link al repositorio remoto:
+https://github.com/LUISITOTHETROLL/HolaMundo
+
+Pero por alguna razón, se han borrado los 6 commits intermedios, seguramente por hacer un git bisect reset tarde.
